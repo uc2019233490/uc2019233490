@@ -1,5 +1,10 @@
 # 💫 About Me:
-Electrical and Computer Engineer
+
+✩ Matilde Carvalho ✩
+
+⚡️Electrical and Computer Engineer 
+
+"Do-or do not. There is no try." - Yoda 
 
 
 ## 🌐 Socials:
@@ -11,4 +16,3 @@ Electrical and Computer Engineer
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uc2019233490&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
